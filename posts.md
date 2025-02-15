@@ -1,4 +1,4 @@
 ---
-layout: archive
+layout: archive-taxonomy
 title: "Blog"
 ---
