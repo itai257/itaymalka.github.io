@@ -1,17 +1,8 @@
 ---
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-
+title: First post
+permalink: /first-post
+modified: 2021-11-10
+comments: true
 ---
 
 # Welcome
