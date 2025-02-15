@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Itay Malka"
   avatar           : "https://media.licdn.com/dms/image/v2/C4E03AQHpVpDNwVgbIg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1643750638281?e=1744848000&v=beta&t=mpdmKq-02amH8HqKI4o0-jOuswmzn0Nqm6dbZdV4r38" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : ".NET Developer"
   location         : "Israel"
   email            :
   links:
