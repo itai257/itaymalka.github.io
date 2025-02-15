@@ -1,4 +1,4 @@
 ---
 layout: archive-taxonomy
-title: "Blog"
+title: "Posts"
 ---
