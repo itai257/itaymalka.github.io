@@ -4,7 +4,7 @@ permalink: /first-post
 layout: post
 date: 2025-02-15
 comments: true
-categories: [Category1, Category2]
+
 ---
 
 # Welcome
