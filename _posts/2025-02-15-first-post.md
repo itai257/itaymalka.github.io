@@ -1,12 +1,12 @@
 ---
 title: First post
-permalink: /first-post
+#permalink: /first-post
 layout: posts
 date: 2025-02-15
 comments: true
 ---
 
-# Welcome
+## Welcome
 
 **Hello world**, this is my first Jekyll blog post.
 
