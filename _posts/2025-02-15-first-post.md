@@ -1,7 +1,7 @@
 ---
 title: First post
 permalink: /first-post
-layout: archive
+layout: posts
 date: 2025-02-15
 comments: true
 ---
