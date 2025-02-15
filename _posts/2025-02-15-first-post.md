@@ -1,8 +1,10 @@
 ---
 title: First post
 permalink: /first-post
-modified: 2021-11-10
+layout: post
+date: 2025-02-15
 comments: true
+categories: [Category1, Category2]
 ---
 
 # Welcome
