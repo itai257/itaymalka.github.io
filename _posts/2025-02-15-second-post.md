@@ -1,6 +1,6 @@
 ---
 title: Second post
-layout: posts
+layout: single
 date: 2025-02-15
 comments: true
 ---
